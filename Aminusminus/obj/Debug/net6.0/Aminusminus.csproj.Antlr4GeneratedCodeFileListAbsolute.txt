@@ -1,0 +1,6 @@
+C:\Users\stuar\Documents\VISUAL STUDIO\VSCODE\Languages\A--\Aminusminus\obj\Debug\net6.0\AmmLexer.cs
+C:\Users\stuar\Documents\VISUAL STUDIO\VSCODE\Languages\A--\Aminusminus\obj\Debug\net6.0\AmmParser.cs
+C:\Users\stuar\Documents\VISUAL STUDIO\VSCODE\Languages\A--\Aminusminus\obj\Debug\net6.0\AmmListener.cs
+C:\Users\stuar\Documents\VISUAL STUDIO\VSCODE\Languages\A--\Aminusminus\obj\Debug\net6.0\AmmBaseListener.cs
+C:\Users\stuar\Documents\VISUAL STUDIO\VSCODE\Languages\A--\Aminusminus\obj\Debug\net6.0\AmmVisitor.cs
+C:\Users\stuar\Documents\VISUAL STUDIO\VSCODE\Languages\A--\Aminusminus\obj\Debug\net6.0\AmmBaseVisitor.cs
